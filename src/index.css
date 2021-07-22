@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  position: relative;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+tr {
+  font-size: 18px;
+  height: 42px;
+}
+
+th {
+  font-weight: bold;
+  background-color: #0277bd;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+pre {
+  margin: 0 auto;
+}
